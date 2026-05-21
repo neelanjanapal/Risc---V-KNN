@@ -1,6 +1,4 @@
-
-
-#Lightweight Single-Cycle RISC-V Processor with Custom Instruction Set Extension for Accelerated KNN Computation
+Lightweight Single-Cycle RISC-V Processor with Custom Instruction Set Extension for Accelerated KNN Computation
 Overview
 
 This project presents the design and implementation of a lightweight 32-bit single-cycle RISC-V processor integrated with a custom instruction set extension to accelerate K-Nearest Neighbors (KNN) distance computation. The processor introduces a dedicated instruction named KDIST, enabling efficient hardware-level execution of Euclidean distance calculations commonly used in machine learning workloads.
